@@ -1,0 +1,15 @@
+/home/vala_laiton/repositories/curso-basico-csharp/bin/Debug/net8.0/curso-basico-csharp
+/home/vala_laiton/repositories/curso-basico-csharp/bin/Debug/net8.0/curso-basico-csharp.deps.json
+/home/vala_laiton/repositories/curso-basico-csharp/bin/Debug/net8.0/curso-basico-csharp.runtimeconfig.json
+/home/vala_laiton/repositories/curso-basico-csharp/bin/Debug/net8.0/curso-basico-csharp.dll
+/home/vala_laiton/repositories/curso-basico-csharp/bin/Debug/net8.0/curso-basico-csharp.pdb
+/home/vala_laiton/repositories/curso-basico-csharp/obj/Debug/net8.0/curso-basico-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/vala_laiton/repositories/curso-basico-csharp/obj/Debug/net8.0/curso-basico-csharp.AssemblyInfoInputs.cache
+/home/vala_laiton/repositories/curso-basico-csharp/obj/Debug/net8.0/curso-basico-csharp.AssemblyInfo.cs
+/home/vala_laiton/repositories/curso-basico-csharp/obj/Debug/net8.0/curso-basico-csharp.csproj.CoreCompileInputs.cache
+/home/vala_laiton/repositories/curso-basico-csharp/obj/Debug/net8.0/curso-basico-csharp.sourcelink.json
+/home/vala_laiton/repositories/curso-basico-csharp/obj/Debug/net8.0/curso-basico-csharp.dll
+/home/vala_laiton/repositories/curso-basico-csharp/obj/Debug/net8.0/refint/curso-basico-csharp.dll
+/home/vala_laiton/repositories/curso-basico-csharp/obj/Debug/net8.0/curso-basico-csharp.pdb
+/home/vala_laiton/repositories/curso-basico-csharp/obj/Debug/net8.0/curso-basico-csharp.genruntimeconfig.cache
+/home/vala_laiton/repositories/curso-basico-csharp/obj/Debug/net8.0/ref/curso-basico-csharp.dll
