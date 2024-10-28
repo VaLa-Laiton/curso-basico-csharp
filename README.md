@@ -4,16 +4,25 @@ Este repositorio contiene mis notas y ejercicios del curso básico de programaci
 
 ## Contenido
 
-- [Introducción a la programación con C#](#introducción)
-- [Primeros pasos con C#](#primeros-pasos)
-- [Bucles y estructuras de control en C#](#bucles-y-estructuras-de-control)
-- [Documentación del Programa en C#](#documentación-del-programa)
+- [Introducción a la programación con C#](#introducción-a-la-programación-con-C#)
+- [Primeros pasos con C#](#primeros-pasos-con-C#)
+- [Bucles y estructuras de control en C#](#bucles-y-estructuras-de-control-en-C#)
+- [Introducción](#introducción)
+- [Documentación del Programa en C#](#documentación-del-programa-en-c#)
   - [Cálculo de Área](#cálculo-de-área)
     - [Área de un Rectángulo](#cálculo-del-área-de-un-rectángulo)
     - [Área de un Círculo](#cálculo-del-área-de-un-círculo)
   - [Juego de Blackjack](#juego-de-blackjack)
 
-## Introducción
+## [Introducción a la programación con C#](https://github.com/VaLa-Laiton/curso-basico-csharp/blob/main/Introduccion%20a%20la%20programacion%20con%20C%23.md)
+
+## [Primeros pasos con C#](https://github.com/VaLa-Laiton/curso-basico-csharp/blob/main/Primeros%20pasos%20con%20C%23.md)
+
+## Bucles y estructuras de control en C#
+
+Con el fin de poner en práctica el manejo de los bucles, estructuras de control y conocimientos adicionales de C#, decidí realizar un pequeño script que imita el funcionamiento del juego de casino Blackjack. Dicho script se encuentra en el archivo [Program.cs](https://github.com/VaLa-Laiton/curso-basico-csharp/blob/main/Program.cs). Y podrás participar en el dicho mini juego cuando realices la ejecución del código.
+
+# Introducción
 
 Este programa es un ejercicio introductorio en C#. Realiza las siguientes acciones:
 
@@ -28,6 +37,8 @@ Este programa es un ejercicio introductorio en C#. Realiza las siguientes accion
 - **Empate con 21 puntos**: Si ambos tienen 21, se declara un empate.
 - **Comparación Final**: Si nadie supera 21 puntos, se compara quién tiene la mano más alta.
 - **Lógica del Dealer**: El dealer deja de recibir cartas si llega a 17 puntos o más. Si alcanza 21 puntos, se procede a comparar con el jugador.
+
+# Documentación del Programa en C#
 
 ## Cálculo de Área
 
@@ -261,16 +272,25 @@ This repository contains my notes and exercises from the basic programming cours
 
 ## Content
 
-- [Introduction to Programming with C#](#introduction)
-- [Getting Started with C#](#getting-started)
-- [Loops and Control Structures in C#](#loops-and-control-structures)
-- [Program Documentation in C#](#program-documentation)
+- [Introduction to Programming with C#](#introduction-to-programming-with-c#)
+- [Getting Started with C#](#getting-started-with-c#)
+- [Loops and Control Structures in C#](#loops-and-control-structures-in-c#)
+- [Introduction](#introduction)
+- [Program Documentation in C#](#program-documentation-in-c#)
   - [Area Calculation](#area-calculation)
     - [Area of a Rectangle](#area-of-a-rectangle)
     - [Area of a Circle](#area-of-a-circle)
   - [Blackjack Game](#blackjack-game)
 
-## Introduction
+## [Introduction to programming with C#](https://github.com/VaLa-Laiton/curso-basico-csharp/blob/main/Introduccion%20a%20la%20programacion%20con%20C%23.md)
+
+## [First steps with C#](https://github.com/VaLa-Laiton/curso-basico-csharp/blob/main/Primeros%20pasos%20con%20C%23.md)
+
+## Loops and control structures in C#
+
+To practice the handling of loops, control structures, and additional knowledge of C#, I decided to create a small script that mimics the functioning of the Blackjack casino game. This script is found in the file [Program.cs](https://github.com/VaLa-Laiton/curso-basico-csharp/blob/main/Program.cs). You can participate in this mini-game when you execute the code.
+
+# Introduction
 
 This program is an introductory exercise in C#. It performs the following actions:
 
@@ -285,6 +305,8 @@ This program is an introductory exercise in C#. It performs the following action
 - **Tie with 21 points**: If both have 21, it's declared a tie.
 - **Final Comparison**: If no one exceeds 21 points, it compares who has the highest hand.
 - **Dealer Logic**: The dealer stops taking cards when they reach 17 points or more. If they reach 21 points, the comparison with the player proceeds.
+
+# Program Documentation in C#
 
 ## Area Calculation
 
