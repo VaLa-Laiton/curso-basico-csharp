@@ -4,11 +4,11 @@ Este repositorio contiene mis notas y ejercicios del curso básico de programaci
 
 ## Contenido
 
-- [Introducción a la programación con C#](#introducción-a-la-programación-con-C#)
-- [Primeros pasos con C#](#primeros-pasos-con-C#)
-- [Bucles y estructuras de control en C#](#bucles-y-estructuras-de-control-en-C#)
+- [Introducción a la programación con C#](#introducción-a-la-programación-con-C)
+- [Primeros pasos con C#](#primeros-pasos-con-C)
+- [Bucles y estructuras de control en C#](#bucles-y-estructuras-de-control-en-C)
 - [Introducción](#introducción)
-- [Documentación del Programa en C#](#documentación-del-programa-en-c#)
+- [Documentación del Programa en C#](#documentación-del-programa-en-c)
   - [Cálculo de Área](#cálculo-de-área)
     - [Área de un Rectángulo](#cálculo-del-área-de-un-rectángulo)
     - [Área de un Círculo](#cálculo-del-área-de-un-círculo)
@@ -272,11 +272,11 @@ This repository contains my notes and exercises from the basic programming cours
 
 ## Content
 
-- [Introduction to Programming with C#](#introduction-to-programming-with-c#)
-- [Getting Started with C#](#getting-started-with-c#)
-- [Loops and Control Structures in C#](#loops-and-control-structures-in-c#)
+- [Introduction to Programming with C#](#introduction-to-programming-with-c)
+- [Getting Started with C#](#getting-started-with-c)
+- [Loops and Control Structures in C#](#loops-and-control-structures-in-c)
 - [Introduction](#introduction)
-- [Program Documentation in C#](#program-documentation-in-c#)
+- [Program Documentation in C#](#program-documentation-in-c)
   - [Area Calculation](#area-calculation)
     - [Area of a Rectangle](#area-of-a-rectangle)
     - [Area of a Circle](#area-of-a-circle)
